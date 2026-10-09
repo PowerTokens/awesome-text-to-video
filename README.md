@@ -184,7 +184,7 @@ Key trends:
 | **Omni-Rewriter** | Open agentic prompt-expansion harness for image/video model dialects (schema + validation + bounded repair; expand ≠ generate). | [github.com/WayneJin0918/Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) |
 | **BeatDesign** | Open-source, local-first AI media workbench combining a Canvas, short-form video editor, shared Assets, and MCP control for image and video workflows. | [github.com/BeatAPI/BeatDesign](https://github.com/BeatAPI/BeatDesign) |
 | **minimax-h3-1000-prompts** | Curated index of the MiniMax H3 1K prompt dataset: 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. Interactive atlas of all 1,000 clips. | [github.com/yangzhou-chaofan/minimax-h3-1000-prompts](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) · [neta.art atlas](https://neta.art/use-cases/en/h3-1000-prompt-list) |
-| **PowerTokens Video Studio** | Open-source (MIT) Windows app focused on batch rendering: turns an Excel/CSV shot list into Wan 3.0 clips, adds a shared character sheet to every prompt, and resumes unfinished jobs by task ID. Requires a PowerTokens API key. | [github.com/PowerTokens/video-studio](https://github.com/PowerTokens/video-studio) |
+| **PowerTokens Video Studio** | Open-source (MIT) Video Studio 1.12 (Windows desktop + web) for batch rendering: turns an Excel/CSV shot list into clips with Wan · Seedance · Kling · and more, adds a shared character sheet to every prompt, and resumes unfinished jobs by task ID. Requires a PowerTokens API key. | [github.com/PowerTokens/video-studio](https://github.com/PowerTokens/video-studio) |
 
 ---
 
